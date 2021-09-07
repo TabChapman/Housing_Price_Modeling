@@ -24,8 +24,8 @@ As always, you will be submitting a technical report and a presentation. **You m
 Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
-2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up](https://www.kaggle.com/t/ef2cf5ae165a4918b68bd126c0e231e0)) to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the [DSIR-720 Regression Challenge](https://www.kaggle.com/c/dsir-720-project-2-regression-challenge/overview)
+2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up](https://www.kaggle.com/t/4cddd793119f4dca89c808fd34dfab58) to **join** the competition (otherwise you will not be able to make submissions!)
+3. Review the material on the [DSIR-Octopus Regression Challenge](https://www.kaggle.com/c/dsir-octopus-project-2-regression-challenge/overview)
 4. Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
 
 ## The Modeling Process
@@ -47,15 +47,15 @@ Before you begin working on this project, please do the following:
 
 ## Submission
 
-Materials (presentation and at least one submission to Kaggle) must be submitted by the beginning of class on **Friday, August 14**. You'll be allowed to polish/clean your repository and submit it by **EOD Friday**.
+**Some** materials (**presentation and at least one submission to Kaggle**) must be submitted by the beginning of class (10am EST) on **Monday, September 20th**. You'll be allowed to polish/clean your repository and submit it by **EOD Monday** (11.59pm EST).
 
-The last day for the Kaggle competition will be **Friday, August 14**.
+The last day for the Kaggle competition will be **Monday, September 20th**.
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
-- A README.md (**that isn't this file**) with a problem statement, executive summary, etc.
+- A README.md (**that isn't this file** - replace this file with YOUR readme) with a problem statement, executive summary, etc.
 - Jupyter notebook(s) with your analysis and models (renamed to describe your project)
-- At least one successful prediction submission on [DSIR-720 Regression Challenge](LinkToCome!) --  you should see your name in the "[Leaderboard]()" tab.
+- At least one successful prediction submission on [DSIR-Octopus Regression Challenge](https://www.kaggle.com/c/dsir-octopus-project-2-regression-challenge/) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsir-octopus-project-2-regression-challenge/leaderboard" tab.
 - Data files
 - Presentation slides
 - Any other necessary files (images, etc.)
@@ -66,7 +66,7 @@ Your technical report will be hosted on Github Enterprise. Make sure it includes
 
 ## Presentation Structure
 
-- **Must be within time limit established by instructors.**
+- **Must be within time limit established by instructors.** (10 to 12 minutes)
 - Use Google Slides or some other visual aid (Keynote, Powerpoint, etc).
 - Consider the audience.
 - Start with the **data science problem**.
